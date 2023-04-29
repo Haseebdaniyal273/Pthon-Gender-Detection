@@ -1,0 +1,8 @@
+Secondly, make a matrix of features that you would like to extract from these categories.
+
+Face Shapes
+Men larger bones, hairs on face means beard
+Women softer, rounder contours
+Old more hardness lines 
+Child more softness small in shapes
+Nothing  No smiller feathers to human
